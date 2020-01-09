@@ -1,0 +1,2 @@
+# MUSK-AND-NONMUSK-CHEMICAL-CLASSIFICATION
+classification problem using 2D CNN 
